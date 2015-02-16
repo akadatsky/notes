@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">notes</string>
+    <string name="sort">Sort</string>
+    <string name="item_number">"Item number: "</string>
+    <string name="save">Save</string>
+</resources>
